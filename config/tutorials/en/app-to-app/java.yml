@@ -22,7 +22,8 @@ introduction:
 prerequisites:
   - create-nexmo-account
   - install-nodejs
-  - install-nexmo-cli-beta
+  - install-vonage-cli-beta
+  - install-vonage-cli-plugins
   - install-android-studio
 
 tasks:
