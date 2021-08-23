@@ -21,7 +21,7 @@ A file named `vonage_app.json` is created in your project directory and contains
 
 Make a note of the Application ID that is echoed in your terminal when your application is created:
 
-![](/screenshots/tutorials/client-sdk/vonage-application-created.png)
+![screenshot of the terminal with Application ID underlined](/screenshots/tutorials/client-sdk/vonage-application-created.png)
 
 
 > **NOTE:** Information about your application, including the Application ID, can also be found in the [Dashboard](https://dashboard.nexmo.com/voice/your-applications).
