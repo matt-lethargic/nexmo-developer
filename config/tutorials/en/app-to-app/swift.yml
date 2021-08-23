@@ -21,7 +21,7 @@ introduction:
     *This tutorial uses NexmoClient version 3.0.0 and Swift 5*
 
 prerequisites:
-  - create-nexmo-account
+  - create-vonage-account
   - install-nodejs
   - install-vonage-cli-beta
   - install-vonage-cli-plugins

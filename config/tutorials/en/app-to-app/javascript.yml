@@ -20,7 +20,7 @@ introduction:
 
 
 prerequisites:
-  - create-nexmo-account
+  - create-vonage-account
   - install-nodejs
   - install-vonage-cli-beta
   - install-vonage-cli-plugins

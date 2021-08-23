@@ -20,7 +20,7 @@ introduction:
     If you would like to follow along without building the app yourself, the completed project is available on [Github](https://github.com/nexmo-community/client-sdk-tutorials) -  please see the [app-to-app-kotlin](https://github.com/nexmo-community/client-sdk-tutorials/tree/main/app-to-app-kotlin) folder.
 
 prerequisites:
-  - create-nexmo-account
+  - create-vonage-account
   - install-nodejs
   - install-vonage-cli-beta
   - install-vonage-cli-plugins
