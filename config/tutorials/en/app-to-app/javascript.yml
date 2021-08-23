@@ -22,7 +22,9 @@ introduction:
 prerequisites:
   - create-nexmo-account
   - install-nodejs
-  - install-nexmo-cli-beta
+  - install-vonage-cli-beta
+  - install-vonage-cli-plugins
+
 
 tasks:
   - client-sdk/app-to-app/create-webhook-server
