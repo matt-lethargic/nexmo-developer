@@ -1,7 +1,7 @@
 ---
-title: Install the Vonage CLI Beta Plugins
+title: Install the Vonage CLI Plugins
 
-description: Install the Conversations and Users Vonage CLI Beta plugins
+description: Install the Conversations and Users Vonage CLI plugins
 ---
 
 The Vonage CLI allows you to install plugins to add additional capabilities. For this tutorial you will need the Conversations and Users plugins.
@@ -9,6 +9,6 @@ The Vonage CLI allows you to install plugins to add additional capabilities. For
 To install the plugins, run the following commands:
 
 ``` shell
-vonage plugins:install @vonage/cli-plugin-conversations@beta
-vonage plugins:install @vonage/cli-plugin-users@beta
+vonage plugins:install @vonage/cli-plugin-conversations
+vonage plugins:install @vonage/cli-plugin-users
 ```

@@ -1,14 +1,14 @@
 ---
-title: Install the Vonage CLI Beta
-description: Install the Vonage CLI Beta to get the latest functionality
+title: Install the Vonage CLI 
+description: Install the Vonage CLI
 ---
 
 The [Vonage CLI](https://github.com/Vonage/vonage-cli) allows you to carry out many operations on the command line. Examples include creating applications, purchasing numbers, and linking a number to an application.
 
-To install the Beta version of the CLI with NPM you can use:
+To install the CLI with NPM run:
 
 ``` shell
-npm install @vonage/cli@beta -g
+npm install @vonage/cli -g
 ```
 
 Set up the CLI to use your Vonage API Key and API Secret. You can get these from the [settings page](https://dashboard.nexmo.com/settings) in the Dashboard.

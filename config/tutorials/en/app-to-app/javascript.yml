@@ -22,15 +22,15 @@ introduction:
 prerequisites:
   - create-vonage-account
   - install-nodejs
-  - install-vonage-cli-beta
+  - install-vonage-cli
   - install-vonage-cli-plugins
 
 
 tasks:
   - client-sdk/app-to-app/create-webhook-server
   - client-sdk/app-to-app/create-application
-  - client-sdk/create-users-alice-and-bob-beta
-  - client-sdk/generate-jwts-alice-and-bob-beta
+  - client-sdk/create-users-alice-and-bob-vonage
+  - client-sdk/generate-jwts-alice-and-bob-vonage
   - client-sdk/app-to-app/place-call
   - client-sdk/app-to-app/receive-call
   - client-sdk/app-to-app/run-app
