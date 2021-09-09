@@ -21,18 +21,19 @@ introduction:
     *This tutorial uses NexmoClient version 3.0.0 and Swift 5*
 
 prerequisites:
-- create-nexmo-account
+- create-vonage-account
 - install-nodejs
-- install-nexmo-cli-beta
+- install-vonage-cli
+- install-vonage-cli-plugins
 - install-xcode
 
 tasks:
 - client-sdk/phone-to-app/create-webhook-server
 - client-sdk/phone-to-app/create-application
-- buy-nexmo-number
-- link-nexmo-number
-- client-sdk/create-user-alice
-- client-sdk/generate-jwt-alice
+- buy-vonage-number
+- link-vonage-number
+- client-sdk/create-user-alice-vonage
+- client-sdk/generate-jwt-alice-vonage
 - client-sdk/phone-to-app/create-project
 - client-sdk/phone-to-app/add-permissions
 - client-sdk/phone-to-app/main-screen
