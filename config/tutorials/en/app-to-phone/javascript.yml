@@ -20,17 +20,19 @@ introduction:
     If you would like to follow along without building the app yourself, the completed project is available on [Github](https://github.com/nexmo-community/client-sdk-tutorials) -  please see the [app-to-phone-js](https://github.com/nexmo-community/client-sdk-tutorials/tree/main/app-to-phone-js) folder.
 
 prerequisites:
-- create-nexmo-account
+- create-vonage-account
 - install-nodejs
-- install-nexmo-cli-beta
-- buy-nexmo-number
+- install-vonage-cli
+- install-vonage-cli-plugins
+- buy-vonage-number
 - link-nexmo-number
 
 tasks:
 - client-sdk/app-to-phone/create-webhook-server
 - client-sdk/app-to-phone/create-application
-- client-sdk/create-user-alice
-- client-sdk/generate-jwt-alice
+- link-vonage-number 
+- client-sdk/create-user-alice-vonage
+- client-sdk/generate-jwt-alice-vonage
 - client-sdk/app-to-phone/main-screen
 - client-sdk/app-to-phone/place-call
 
