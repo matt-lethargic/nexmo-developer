@@ -25,13 +25,13 @@ prerequisites:
 - install-nodejs
 - install-vonage-cli
 - install-vonage-cli-plugins
-- buy-vonage-number
 - install-xcode
 
 tasks:
 - client-sdk/app-to-phone/create-webhook-server
 - client-sdk/app-to-phone/create-application
 - link-vonage-number
+- buy-vonage-number
 - client-sdk/create-user-alice-vonage
 - client-sdk/generate-jwt-alice-vonage
 - client-sdk/app-to-phone/create-project

@@ -23,12 +23,12 @@ prerequisites:
 - install-nodejs
 - install-vonage-cli
 - install-vonage-cli-plugins
-- buy-vonage-number
 - install-android-studio
 
 tasks:
 - client-sdk/app-to-phone/create-webhook-server
 - client-sdk/app-to-phone/create-application
+- buy-vonage-number
 - link-vonage-number
 - client-sdk/create-user-alice-vonage
 - client-sdk/generate-jwt-alice-vonage
